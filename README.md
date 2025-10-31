@@ -6,8 +6,7 @@ Menerapkan Plugin auto_size_text di Project Flutter
 ## Langkah 1: Buat Project Baru
 Buatlah sebuah project flutter baru dengan nama flutter_plugin_pubdev. Lalu jadikan repository di GitHub Anda dengan nama flutter_plugin_pubdev.
 
-![project baru](p7
-.png)
+![project baru](p7.png)
 
 ## Langkah 2: Menambahkan Plugin
 Tambahkan plugin auto_size_text menggunakan perintah berikut di terminal
